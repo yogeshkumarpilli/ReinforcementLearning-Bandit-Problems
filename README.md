@@ -1,5 +1,7 @@
 # Bandits Crash Course
 
+## This Repository is based on the lecture on Bandits by Eustache Diemert 
+
 ## Dependencies 
 
 to show an interactive slideshow from the notebook
